@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2026-02-04T00:00:00+03:00">
+<shop>
+  <name>Вождение без риска</name>
+  <company>ООО "Вождение без риска"</company>
+  <url>https://xn--80abcifabdogey6ak3br.xn--p1ai</url>
+  <platform>Tilda Publishing</platform>
+  <version>1.0</version>
+  <email>info@rfdriving.ru</email>
+  <picture>https://raw.githubusercontent.com/klods2023/yandex-feed/557718f503f84b4550c8c0db21f543b4ea2e3729/logo100.png</picture>
+  
+  <currencies>
+    <currency id="RUR" rate="1"/>
+  </currencies>
+  
+  <offers>
+    <!-- Основы защитного вождения -->
+    <offer id="952500125922">
+      <name>Основы защитного вождения</name>
+      <url>https://xn--80abcifabdogey6ak3br.xn--p1ai/tproduct/342124861942-osnovi-zaschitnogo-vozhdeniya?editionuid=952500125922</url>
+      <price>6000.00</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>1010</categoryId>
+      <picture>https://raw.githubusercontent.com/klods2023/yandex-feed/557718f503f84b4550c8c0db21f543b4ea2e3729/logo100.png</picture>
+      <description>Курс по основам защитного вождения: техники безопасного управления автомобилем, профилактика аварийных ситуаций, повышение навыков водителя.</description>
+      
+      <param name="Продолжительность" unit="час">4</param>
+      <param name="План" order="1" unit="Основы безопасного вождения" hours="1">Изучение принципов безопасного вождения и анализа дорожной ситуации</param>
+      <param name="План" order="2" unit="Техники управления" hours="2">Практическое освоение техник управления автомобилем в разных условиях</param>
+      <param name="План" order="3" unit="Профилактика аварий" hours="1">Разбор и профилактика типовых аварийных ситуаций на дороге</param>
+      
+      <param name="Формат обучения">С преподавателем</param>
+      <param name="Есть видеоуроки">true</param>
+      <param name="Есть домашние работы">true</param>
+      <param name="Сложность">Для новичков</param>
+      <param name="Тип обучения">Курс</param>
+      <param name="Результат обучения">Сертификат</param>
+      <param name="Часы в неделю" unit="час">4</param>
+    </offer>
+    
+    <!-- Основы защитного вождения (Премиум) -->
+    <offer id="811603796522">
+      <name>Основы защитного вождения (Премиум)</name>
+      <url>https://xn--80abcifabdogey6ak3br.xn--p1ai/tproduct/342124861942-osnovi-zaschitnogo-vozhdeniya?editionuid=811603796522</url>
+      <price>7000.00</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>1010</categoryId>
+      <picture>https://raw.githubusercontent.com/klods2023/yandex-feed/557718f503f84b4550c8c0db21f543b4ea2e3729/logo100.png</picture>
+      <description>Курс по основам защитного вождения: техники безопасного управления автомобилем, профилактика аварийных ситуаций, повышение навыков водителя. Премиум пакет.</description>
+      
+      <param name="Продолжительность" unit="час">4</param>
+      <param name="План" order="1" unit="Основы безопасного вождения" hours="1">Изучение принципов безопасного вождения и анализа дорожной ситуации</param>
+      <param name="План" order="2" unit="Техники управления" hours="2">Практическое освоение техник управления автомобилем в разных условиях</param>
+      <param name="План" order="3" unit="Профилактика аварий" hours="1">Разбор и профилактика типовых аварийных ситуаций на дороге</param>
+      
+      <param name="Формат обучения">С преподавателем</param>
+      <param name="Есть видеоуроки">true</param>
+      <param name="Есть домашние работы">true</param>
+      <param name="Сложность">Для новичков</param>
+      <param name="Тип обучения">Курс</param>
+      <param name="Результат обучения">Сертификат</param>
+      <param name="Часы в неделю" unit="час">4</param>
+    </offer>
+    
+    <!-- Базовый курс «Защитное вождение» -->
+    <offer id="457249880022">
+      <name>Базовый курс «Защитное вождение»</name>
+      <url>https://xn--80abcifabdogey6ak3br.xn--p1ai/tproduct/336605627012-bazovii-kurs-zaschitnoe-vozhdenie?editionuid=457249880022</url>
+      <price>8000.00</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>1010</categoryId>
+      <picture>https://raw.githubusercontent.com/klods2023/yandex-feed/557718f503f84b4550c8c0db21f543b4ea2e3729/logo100.png</picture>
+      <description>Базовый курс по защитному вождению: работа с заносами, экстренное торможение, маневрирование в сложных условиях.</description>
+      
+      <param name="Продолжительность" unit="час">6</param>
+      <param name="План" order="1" unit="Базовые техники" hours="2">Изучение базовых техник защитного вождения</param>
+      <param name="План" order="2" unit="Работа с заносами" hours="2">Практика управления автомобилем в заносе</param>
+      <param name="План" order="3" unit="Экстренное торможение" hours="1">Техники экстренного торможения на разных покрытиях</param>
+      <param name="План" order="4" unit="Маневрирование" hours="1">Безопасное маневрирование в городских условиях</param>
+      
+      <param name="Формат обучения">С преподавателем</param>
+      <param name="Есть видеоуроки">true</param>
+      <param name="Есть домашние работы">true</param>
+      <param name="Сложность">Для новичков</param>
+      <param name="Тип обучения">Курс</param>
+      <param name="Результат обучения">Сертификат</param>
+      <param name="Часы в неделю" unit="час">6</param>
+    </offer>
+    
+    <!-- Базовый курс «Защитное вождение» (Расширенный) -->
+    <offer id="331651442632">
+      <name>Базовый курс «Защитное вождение» (Расширенный)</name>
+      <url>https://xn--80abcifabdogey6ak3br.xn--p1ai/tproduct/336605627012-bazovii-kurs-zaschitnoe-vozhdenie?editionuid=331651442632</url>
+      <price>9000.00</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>1010</categoryId>
+      <picture>https://raw.githubusercontent.com/klods2023/yandex-feed/557718f503f84b4550c8c0db21f543b4ea2e3729/logo100.png</picture>
+      <description>Базовый курс по защитному вождению: работа с заносами, экстренное торможение, маневрирование в сложных условиях. Расширенная программа.</description>
+      
+      <param name="Продолжительность" unit="час">6</param>
+      <param name="План" order="1" unit="Базовые техники" hours="2">Изучение базовых техник защитного вождения</param>
+      <param name="План" order="2" unit="Работа с заносами" hours="2">Практика управления автомобилем в заносе</param>
+      <param name="План" order="3" unit="Экстренное торможение" hours="1">Техники экстренного торможения на разных покрытиях</param>
+      <param name="План" order="4" unit="Маневрирование" hours="1">Безопасное маневрирование в городских условиях</param>
+      
+      <param name="Формат обучения">С преподавателем</param>
+      <param name="Есть видеоуроки">true</param>
+      <param name="Есть домашние работы">true</param>
+      <param name="Сложность">Для новичков</param>
+      <param name="Тип обучения">Курс</param>
+      <param name="Результат обучения">Сертификат</param>
+      <param name="Часы в неделю" unit="час">6</param>
+    </offer>
+    
+    <!-- Расширенный курс «Защитное и зимнее вождение» -->
+    <offer id="229718347342">
+      <name>Расширенный курс «Защитное и зимнее вождение»</name>
+      <url>https://xn--80abcifabdogey6ak3br.xn--p1ai/tproduct/205780839132-rasshirennii-kurs-zaschitnoe-i-zimnee-vo?editionuid=229718347342</url>
+      <price>10000.00</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>1010</categoryId>
+      <picture>https://raw.githubusercontent.com/klods2023/yandex-feed/557718f503f84b4550c8c0db21f543b4ea2e3729/logo100.png</picture>
+      <description>Расширенный курс по защитному и зимнему вождению: особенности езды по снегу и льду, безопасность в сложных условиях.</description>
+      
+      <param name="Продолжительность" unit="час">8</param>
+      <param name="План" order="1" unit="Защитное вождение" hours="3">Продвинутые техники защитного вождения</param>
+      <param name="План" order="2" unit="Зимние техники" hours="3">Управление автомобилем на снегу и льду</param>
+      <param name="План" order="3" unit="Безопасность в сложных условиях" hours="2">Особенности езды в сложных погодных условиях</param>
+      
+      <param name="Формат обучения">С преподавателем</param>
+      <param name="Есть видеоуроки">true</param>
+      <param name="Есть домашние работы">true</param>
+      <param name="Сложность">Для опытных</param>
+      <param name="Тип обучения">Курс</param>
+      <param name="Результат обучения">Сертификат</param>
+      <param name="Часы в неделю" unit="час">8</param>
+    </offer>
+    
+    <!-- Расширенный курс «Защитное и зимнее вождение» (Премиум) -->
+    <offer id="517843307532">
+      <name>Расширенный курс «Защитное и зимнее вождение» (Премиум)</name>
+      <url>https://xn--80abcifabdogey6ak3br.xn--p1ai/tproduct/205780839132-rasshirennii-kurs-zaschitnoe-i-zimnee-vo?editionuid=517843307532</url>
+      <price>11000.00</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>1010</categoryId>
+      <picture>https://raw.githubusercontent.com/klods2023/yandex-feed/557718f503f84b4550c8c0db21f543b4ea2e3729/logo100.png</picture>
+      <description>Расширенный курс по защитному и зимнему вождению: особенности езды по снегу и льду, безопасность в сложных условиях. Премиум пакет.</description>
+      
+      <param name="Продолжительность" unit="час">8</param>
+      <param name="План" order="1" unit="Защитное вождение" hours="3">Продвинутые техники защитного вождения</param>
+      <param name="План" order="2" unit="Зимние техники" hours="3">Управление автомобилем на снегу и льду</param>
+      <param name="План" order="3" unit="Безопасность в сложных условиях" hours="2">Особенности езды в сложных погодных условиях</param>
+      
+      <param name="Формат обучения">С преподавателем</param>
+      <param name="Есть видеоуроки">true</param>
+      <param name="Есть домашние работы">true</param>
+      <param name="Сложность">Для опытных</param>
+      <param name="Тип обучения">Курс</param>
+      <param name="Результат обучения">Сертификат</param>
+      <param name="Часы в неделю" unit="час">8</param>
+    </offer>
+    
+    <!-- Дистанционный курс «Защитное вождение» -->
+    <offer id="850112813962">
+      <name>Дистанционный курс «Защитное вождение»</name>
+      <url>https://xn--80abcifabdogey6ak3br.xn--p1ai/tproduct/842172459372-distantsionnii-kurs-zaschitnoe-vozhdenie?editionuid=850112813962</url>
+      <price>4000.00</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>1010</categoryId>
+      <picture>https://raw.githubusercontent.com/klods2023/yandex-feed/557718f503f84b4550c8c0db21f543b4ea2e3729/logo100.png</picture>
+      <description>Дистанционный курс: онлайн-лекции по защитному вождению, видеоматериалы, тестирование, консультации с инструктором.</description>
+      
+      <param name="Продолжительность" unit="час">5</param>
+      <param name="План" order="1" unit="Онлайн-лекции" hours="2">Видеолекции по защитному вождению</param>
+      <param name="План" order="2" unit="Видеоматериалы" hours="1.5">Дополнительные учебные видео</param>
+      <param name="План" order="3" unit="Тестирование" hours="1">Проверка знаний через тесты</param>
+      <param name="План" order="4" unit="Консультации" hours="0.5">Онлайн-консультации с инструктором</param>
+      
+      <param name="Формат обучения">Самостоятельно с наставником</param>
+      <param name="Есть видеоуроки">true</param>
+      <param name="Есть текстовые уроки">true</param>
+      <param name="Есть домашние работы">true</param>
+      <param name="Сложность">Для новичков</param>
+      <param name="Тип обучения">Курс</param>
+      <param name="Результат обучения">Сертификат</param>
+      <param name="Ближайшая дата">2026-02-15</param>
+      <param name="Часы в неделю" unit="час">5</param>
+    </offer>
+    
+    <!-- Дистанционный курс «Защитное вождение» (Расширенный) -->
+    <offer id="355154423052">
+      <name>Дистанционный курс «Защитное вождение» (Расширенный)</name>
+      <url>https://xn--80abcifabdogey6ak3br.xn--p1ai/tproduct/842172459372-distantsionnii-kurs-zaschitnoe-vozhdenie?editionuid=355154423052</url>
+      <price>5000.00</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>1010</categoryId>
+      <picture>https://raw.githubusercontent.com/klods2023/yandex-feed/557718f503f84b4550c8c0db21f543b4ea2e3729/logo100.png</picture>
+      <description>Дистанционный курс: онлайн-лекции по защитному вождению, видеоматериалы, тестирование, консультации с инструктором. Расширенная программа.</description>
+      
+      <param name="Продолжительность" unit="час">5</param>
+      <param name="План" order="1" unit="Онлайн-лекции" hours="2">Видеолекции по защитному вождению</param>
+      <param name="План" order="2" unit="Видеоматериалы" hours="1.5">Дополнительные учебные видео</param>
+      <param name="План" order="3" unit="Тестирование" hours="1">Проверка знаний через тесты</param>
+      <param name="План" order="4" unit="Консультации" hours="0.5">Онлайн-консультации с инструктором</param>
+      
+      <param name="Формат обучения">Самостоятельно с наставником</param>
+      <param name="Есть видеоуроки">true</param>
+      <param name="Есть текстовые уроки">true</param>
+      <param name="Есть домашние работы">true</param>
+      <param name="Сложность">Для новичков</param>
+      <param name="Тип обучения">Курс</param>
+      <param name="Результат обучения">Сертификат</param>
+      <param name="Ближайшая дата">2026-02-15</param>
+      <param name="Часы в неделю" unit="час">5</param>
+    </offer>
+    
+    <!-- Индивидуальное обучение защитному вождению -->
+    <offer id="590482097062">
+      <name>Индивидуальное обучение для физических лиц</name>
+      <url>https://xn--80abcifabdogey6ak3br.xn--p1ai/tproduct/875383363212-individualnoe-obuchenie-dlya-fizicheskih?editionuid=590482097062</url>
+      <price>2000.00</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>1010</categoryId>
+      <picture>https://raw.githubusercontent.com/klods2023/yandex-feed/557718f503f84b4550c8c0db21f543b4ea2e3729/logo100.png</picture>
+      <description>Индивидуальное обучение: разработка персональной программы, работа над конкретными навыками с инструктором.</description>
+      
+      <param name="Продолжительность" unit="час">2</param>
+      <param name="План" order="1" unit="Диагностика навыков" hours="0.5">Оценка текущих навыков водителя</param>
+      <param name="План" order="2" unit="Персональная программа" hours="0.5">Разработка индивидуальной программы</param>
+      <param name="План" order="3" unit="Практические занятия" hours="1">Работа над конкретными навыками</param>
+      
+      <param name="Формат обучения">С преподавателем</param>
+      <param name="Есть домашние работы">true</param>
+      <param name="Сложность">Для новичков</param>
+      <param name="Тип обучения">Курс</param>
+      <param name="Результат обучения">Сертификат</param>
+      <param name="Часы в неделю" unit="час">2</param>
+    </offer>
+    
+    <!-- Индивидуальное обучение защитному вождению (Расширенное) -->
+    <offer id="200290883822">
+      <name>Индивидуальное обучение для физических лиц</name>
+      <url>https://xn--80abcifabdogey6ak3br.xn--p1ai/tproduct/875383363212-individualnoe-obuchenie-dlya-fizicheskih?editionuid=200290883822</url>
+      <price>3000.00</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>1010</categoryId>
+      <picture>https://raw.githubusercontent.com/klods2023/yandex-feed/557718f503f84b4550c8c0db21f543b4ea2e3729/logo100.png</picture>
+      <description>Индивидуальное обучение: разработка персональной программы, работа над конкретными навыками с инструктором. Расширенная программа.</description>
+      
+      <param name="Продолжительность" unit="час">2</param>
+      <param name="План" order="1" unit="Диагностика навыков" hours="0.5">Оценка текущих навыков водителя</param>
+      <param name="План" order="2" unit="Персональная программа" hours="0.5">Разработка индивидуальной программы</param>
+      <param name="План" order="3" unit="Практические занятия" hours="1">Работа над конкретными навыками</param>
+      
+      <param name="Формат обучения">С преподавателем</param>
+      <param name="Есть домашние работы">true</param>
+      <param name="Сложность">Для новичков</param>
+      <param name="Тип обучения">Курс</param>
+      <param name="Результат обучения">Сертификат</param>
+      <param name="Часы в неделю" unit="час">2</param>
+    </offer>
+  </offers>
+</shop>
+</yml_catalog>
