@@ -7,7 +7,7 @@
   <platform>Tilda Publishing</platform>
   <version>1.0</version>
   <email>info@rfdriving.ru</email>
-  <picture>https://failcloudhost.ru/view/6ab0b74c140be2c8</picture>
+  <picture>https://raw.githubusercontent.com/klods2023/yandex-feed/557718f503f84b4550c8c0db21f543b4ea2e3729/logo100.png</picture>
   
   <currencies>
     <currency id="RUR" rate="1"/>
@@ -21,7 +21,7 @@
       <price>6000.00</price>
       <currencyId>RUR</currencyId>
       <categoryId>1010</categoryId>
-      <picture>https://failcloudhost.ru/view/f943ff9dee13287b</picture>
+      <picture>https://raw.githubusercontent.com/klods2023/yandex-feed/557718f503f84b4550c8c0db21f543b4ea2e3729/logo100.png</picture>
       <description>Курс по основам защитного вождения: техники безопасного управления автомобилем, профилактика аварийных ситуаций, повышение навыков водителя.</description>
       
       <param name="Продолжительность" unit="час">4</param>
@@ -45,7 +45,7 @@
       <price>7000.00</price>
       <currencyId>RUR</currencyId>
       <categoryId>1010</categoryId>
-      <picture>https://failcloudhost.ru/view/f943ff9dee13287b</picture>
+      <picture>https://raw.githubusercontent.com/klods2023/yandex-feed/557718f503f84b4550c8c0db21f543b4ea2e3729/logo100.png</picture>
       <description>Курс по основам защитного вождения: техники безопасного управления автомобилем, профилактика аварийных ситуаций, повышение навыков водителя. Премиум пакет.</description>
       
       <param name="Продолжительность" unit="час">4</param>
@@ -69,7 +69,7 @@
       <price>8000.00</price>
       <currencyId>RUR</currencyId>
       <categoryId>1010</categoryId>
-      <picture>https://failcloudhost.ru/view/f943ff9dee13287b</picture>
+      <picture>https://raw.githubusercontent.com/klods2023/yandex-feed/557718f503f84b4550c8c0db21f543b4ea2e3729/logo100.png</picture>
       <description>Базовый курс по защитному вождению: работа с заносами, экстренное торможение, маневрирование в сложных условиях.</description>
       
       <param name="Продолжительность" unit="час">6</param>
@@ -94,7 +94,7 @@
       <price>9000.00</price>
       <currencyId>RUR</currencyId>
       <categoryId>1010</categoryId>
-      <picture>https://failcloudhost.ru/view/f943ff9dee13287b</picture>
+      <picture>https://raw.githubusercontent.com/klods2023/yandex-feed/557718f503f84b4550c8c0db21f543b4ea2e3729/logo100.png</picture>
       <description>Базовый курс по защитному вождению: работа с заносами, экстренное торможение, маневрирование в сложных условиях. Расширенная программа.</description>
       
       <param name="Продолжительность" unit="час">6</param>
@@ -119,7 +119,7 @@
       <price>10000.00</price>
       <currencyId>RUR</currencyId>
       <categoryId>1010</categoryId>
-      <picture>https://failcloudhost.ru/view/f943ff9dee13287b</picture>
+      <picture>https://raw.githubusercontent.com/klods2023/yandex-feed/557718f503f84b4550c8c0db21f543b4ea2e3729/logo100.png</picture>
       <description>Расширенный курс по защитному и зимнему вождению: особенности езды по снегу и льду, безопасность в сложных условиях.</description>
       
       <param name="Продолжительность" unit="час">8</param>
@@ -143,7 +143,7 @@
       <price>11000.00</price>
       <currencyId>RUR</currencyId>
       <categoryId>1010</categoryId>
-      <picture>https://failcloudhost.ru/view/f943ff9dee13287b</picture>
+      <picture>https://raw.githubusercontent.com/klods2023/yandex-feed/557718f503f84b4550c8c0db21f543b4ea2e3729/logo100.png</picture>
       <description>Расширенный курс по защитному и зимнему вождению: особенности езды по снегу и льду, безопасность в сложных условиях. Премиум пакет.</description>
       
       <param name="Продолжительность" unit="час">8</param>
@@ -167,7 +167,7 @@
       <price>4000.00</price>
       <currencyId>RUR</currencyId>
       <categoryId>1010</categoryId>
-      <picture>https://failcloudhost.ru/view/f943ff9dee13287b</picture>
+      <picture>https://raw.githubusercontent.com/klods2023/yandex-feed/557718f503f84b4550c8c0db21f543b4ea2e3729/logo100.png</picture>
       <description>Дистанционный курс: онлайн-лекции по защитному вождению, видеоматериалы, тестирование, консультации с инструктором.</description>
       
       <param name="Продолжительность" unit="час">5</param>
@@ -194,7 +194,7 @@
       <price>5000.00</price>
       <currencyId>RUR</currencyId>
       <categoryId>1010</categoryId>
-      <picture>https://failcloudhost.ru/view/f943ff9dee13287b</picture>
+      <picture>https://raw.githubusercontent.com/klods2023/yandex-feed/557718f503f84b4550c8c0db21f543b4ea2e3729/logo100.png</picture>
       <description>Дистанционный курс: онлайн-лекции по защитному вождению, видеоматериалы, тестирование, консультации с инструктором. Расширенная программа.</description>
       
       <param name="Продолжительность" unit="час">5</param>
@@ -221,7 +221,7 @@
       <price>2000.00</price>
       <currencyId>RUR</currencyId>
       <categoryId>1010</categoryId>
-      <picture>https://failcloudhost.ru/view/f943ff9dee13287b</picture>
+      <picture>https://raw.githubusercontent.com/klods2023/yandex-feed/557718f503f84b4550c8c0db21f543b4ea2e3729/logo100.png</picture>
       <description>Индивидуальное обучение: разработка персональной программы, работа над конкретными навыками с инструктором.</description>
       
       <param name="Продолжительность" unit="час">2</param>
@@ -244,7 +244,7 @@
       <price>3000.00</price>
       <currencyId>RUR</currencyId>
       <categoryId>1010</categoryId>
-      <picture>https://failcloudhost.ru/view/f943ff9dee13287b</picture>
+      <picture>https://raw.githubusercontent.com/klods2023/yandex-feed/557718f503f84b4550c8c0db21f543b4ea2e3729/logo100.png</picture>
       <description>Индивидуальное обучение: разработка персональной программы, работа над конкретными навыками с инструктором. Расширенная программа.</description>
       
       <param name="Продолжительность" unit="час">2</param>
